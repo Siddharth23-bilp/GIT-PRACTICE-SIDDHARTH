@@ -1,2 +1,4 @@
 Line 1: I am learning Git and GitHub.
 Line 2: Git tracks changes in my files.
+Line 3: Each commit saves a checkpoint. Then stage and
+commit agains
